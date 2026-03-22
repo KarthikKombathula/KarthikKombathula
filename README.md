@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KLKarthikgithub&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -34,5 +37,5 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn:[Lakshmi_Karthik_Kombathula](https://www.linkedin.com/in/lakshmi-karthik-kombathula-b028233a4/)
+- 💼 LinkedIn:[  Lakshmi_Karthik_Kombathula](https://www.linkedin.com/in/lakshmi-karthik-kombathula-b028233a4/)
 - 📧 Email: kombathulakarthik12@gmail.com
