@@ -3,7 +3,9 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/karthikkombathula/karthikkombathula/main/banner.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KarthikKombathula/KarthikKombathula/main/banner.svg"/>
+</p>
 
 
 ---
