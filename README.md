@@ -26,5 +26,5 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn:[ https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/lakshmi-karthik-kombathula-b028233a4/)
+- 📧 Email: kombathulakarthik12@gmail.com
