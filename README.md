@@ -2,12 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=KLKarthikgithub&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<h1 align="center">Karthik</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center" style="background: linear-gradient(90deg, #8A2BE2, #DA70D6); padding: 30px; border-radius: 10px;">
 
-<p align="center">
+<h1 style="color: white; margin: 0;">Lakshmi Karthik Kombathula</h1>
+<h3 style="color: white; margin: 10px 0;">Software Developer</h3>
+
+<p style="color: white; margin: 0;">
 Java | DSA | Python | SQL | Web Development
 </p>
+
+</div>
 
 ---
 
