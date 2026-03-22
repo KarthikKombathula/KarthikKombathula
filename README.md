@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=karthikkombathula&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:4B6CB7&height=280&section=header&text=Lakshmi%20Karthik%20Kombathula&fontSize=42&fontColor=ffffff&desc=Software%20Developer%0AJava%20%7C%20DSA%20%7C%20Python%20%7C%20SQL%20%7C%20Web%20Development&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:4B6CB7&height=300&section=header&text=Lakshmi%20Karthik%20Kombathula&fontSize=42&fontColor=ffffff&desc=Software%20Developer%0A%0AJava%20%7C%20DSA%20%7C%20Python%20%7C%20SQL%20%7C%20Web%20Development&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn"/>
 
 ---
 
