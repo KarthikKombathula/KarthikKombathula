@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Hi I'm Karthik
 - 🎓 B.Tech Graduate  
 - 💻 Passionate about Java & DSA  
 - 🌱 Currently learning Full Stack Development  
