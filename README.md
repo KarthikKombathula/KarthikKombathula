@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLKarthikgithub&show_icons=true&theme=tokyonight)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikkombathula&show_icons=true&theme=tokyonight)
 
 ---
 
