@@ -1,17 +1,14 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KLKarthikgithub&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=karthikkombathula&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<div align="center" style="background: linear-gradient(90deg, #8A2BE2, #DA70D6); padding: 30px; border-radius: 10px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2,DA70D6&height=200&section=header&text=Lakshmi%20Karthik%20Kombathula&fontSize=35&fontColor=ffffff&desc=Software%20Developer%20|%20Java%20|%20DSA%20|%20Python%20|%20SQL%20|%20Web%20Development&descSize=18&descAlign=50&descAlignY=65"/>
 
-<h1 style="color: white; margin: 0;">Lakshmi Karthik Kombathula</h1>
-<h3 style="color: white; margin: 10px 0;">Software Developer</h3>
+---
 
-<p style="color: white; margin: 0;">
-Java | DSA | Python | SQL | Web Development
-</p>
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Karthik+👋;Software+Developer;Java+%7C+DSA+%7C+Full+Stack+Learner" />
+</h1>
 
 ---
 
@@ -24,27 +21,41 @@ Java | DSA | Python | SQL | Web Development
 ---
 
 ## 🛠️ Skills
-- Java  
-- Python  
-- SQL  
-- HTML, CSS  
-- Data Structures & Algorithms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,sql,html,css,js,git,github,vscode,mysql" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikkombathula&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkombathula&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikkombathula&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkombathula&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=karthikkombathula&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karthikkombathula&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/karthikkombathula/karthikkombathula/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: [Lakshmi_Karthik_Kombathula](https://www.linkedin.com/in/lakshmi-karthik-kombathula-b028233a4/)
-- 📧 Email:  kombathulakarthik12@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshmi-karthik-kombathula-b028233a4/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+📧 kombathulakarthik12@gmail.com
+</p>
