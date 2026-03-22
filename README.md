@@ -23,6 +23,14 @@
 ## 📊 GitHub Stats
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikkombathula&show_icons=true&theme=tokyonight)
 
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikkombathula&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=karthikkombathula&theme=tokyonight)
+
 ---
 
 ## 🔗 Connect with Me
