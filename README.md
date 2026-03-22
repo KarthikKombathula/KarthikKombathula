@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h3 align="center">Aspiring Software Developer</h3>
 
-<!--
-**KarthikKombathula/KarthikKombathula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech Graduate  
+- 💻 Passionate about Java & DSA  
+- 🌱 Currently learning Full Stack Development  
+- 🔍 Looking for Software Developer opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Java  
+- Python  
+- SQL  
+- HTML, CSS  
+- Data Structures & Algorithms  
+
+---
+
+## 📊 GitHub Stats
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLKarthikgithub&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: yourmail@gmail.com
